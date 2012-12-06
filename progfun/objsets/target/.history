@@ -1,0 +1,12 @@
+compile ~
+~ compile
+~ test
+Main
+?
+run-main
+run-main TweetSet
+runMain objsets.TweetSet
+run-ain objsets.TweetSet
+run-main objsets.TweetSet
+run objsets.TweetSet.Main
+submit jordanthelewis@gmail.com y7vQaCYg4T
